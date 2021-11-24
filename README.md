@@ -1,8 +1,6 @@
 # Calculator
 
-### https://calculator-meet.web.app/
-
-### Hosted on Firebase
+### Hosted on Firebase (https://calculator-meet.web.app/)
 
 This web application performs all tasks as a calculator.
 
